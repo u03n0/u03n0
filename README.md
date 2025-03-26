@@ -1,5 +1,5 @@
 ## Oh ... You found me.
-Welcome welcome. Nothing fancy here, just a snapshot into my mind, ambitions, broken dreams, good intentions and a few completed projects. Emphasis on *a few*.
+Welcome welcome. Nothing fancy here, just a snapshot into my mind, with a few completed projects. Emphasis on *a few*.
 Most repos aim to explain a topic, with a Feynman apporach, while others showcase a micro project from end-to-end.
 
 ## Domains
