@@ -3,9 +3,14 @@
 If we can be specific; Natural Language Processing.
 ### ML Compilers
 - 🌱 I’m currently learning ... CUDA programming. Dusting off my C++ skills.
+### Backend Web Development
+- nearly 3 years of experience: mainly using Django (DRF) and familiarity with FastAPI and Flask
+### ML OPS
+- Deploying ML projects
 ## Languages:
-The majority of repos will be in Python (jupyternotebooks for demonstrative purposes) however, I'm making a concerted effort to also have my repos be in C++.
-Ocassionally I flirt with Haskell, but its more of an admired language than a practical one.
+- Python : primary language (professionally, academically) for Backend, ML and MLOps
+- C++ : ML models and compilation
+- OCaml : compilers
 
 #### New favorite tech quote: "everything is open source if you can reverse engineer" -LowLevel
 Going back to the bane of my existence when I was taking CS courses ... Assembly x86.
