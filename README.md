@@ -10,7 +10,8 @@ If we can be specific; Natural Language Processing.
 ## Languages:
 - Python : primary language (professionally, academically) for Backend, ML and MLOps
 - C++ : ML models and compilation
-- 
+- Assembly x86
+  
 #### New favorite tech quote: "everything is open source if you can reverse engineer" -LowLevel
 Going back to the bane of my existence when I was taking CS courses ... Assembly x86.
 
