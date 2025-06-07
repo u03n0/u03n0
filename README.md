@@ -6,8 +6,8 @@ If we can be specific; Natural Language Processing.
 ### Backend Web Development
 - Both in Python and C++, from FastAPI to Drogon
 ## Languages:
-- Python : primary language (professionally, academically) for Backend, ML and MLOps
-- C++ : ML models and compilation
+- Python 
+- C++ 
 - Assembly x86
 
 <!--
